@@ -9,4 +9,4 @@ This repository contains solutions to projects submitted in fulfillment of the r
 
 1. [Explore US BikeShare Data](projects/Explore-US-BikeShare-Data)
 2. [WeRateDogs](projects/WeRateDogs)
-3. [Rotten Tomatoes](projects/Rotten-Tomatoes)
+3. [Rotten Tomatoes](projects/Rotten Tomatoes)
