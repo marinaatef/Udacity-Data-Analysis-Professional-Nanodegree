@@ -1,5 +1,5 @@
 # WeRateDogs
- Wrangle and Analyze Data
+ **Wrangle and Analyze Data**
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 These ratings almost always have a denominator of 10. The numerators,
